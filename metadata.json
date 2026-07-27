@@ -1,0 +1,6 @@
+{
+  "name": "Sunndown Coffee La Union",
+  "description": "Specialty Coffee Shop in San Juan, La Union, Philippines. Specialty coffee, handcrafted food, minimalist tropical interiors, and slow mornings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
